@@ -1,10 +1,10 @@
-# 🚀 Remote-Ready Data Analytics & Predictive Learning Portfolio
+#  Remote-Ready Data Analytics & Predictive Learning Portfolio
 
 Welcome to my central repository for **Data Analytics**, **Machine Learning**, and **Predictive Modeling**. This space features end-to-end analytical pipelines, dynamic business dashboards, and predictive forecasting solutions designed to help remote-first companies drive data-backed decision-making.
 
 ---
 
-## 🌟 Why Hire Me for Remote Data & ML Roles?
+##  Why Hire Me for Remote Data & ML Roles?
 
 * **Proven Remote Execution:** Autonomous problem-solver with strong async communication skills, experienced in managing end-to-end data projects from raw data wrangling to executive presentation.
 * **Full-Stack Analytical Capability:** Proficient across modern data stacks—combining SQL, Python, Tableau, and Power BI with advanced predictive learning techniques.
@@ -12,7 +12,7 @@ Welcome to my central repository for **Data Analytics**, **Machine Learning**, a
 
 ---
 
-## 📂 Repository Contents & Business Value
+##  Repository Contents & Business Value
 
 | File / Asset | Category | Core Tech Stack | Business Value / Use Case |
 | --- | --- | --- | --- |
@@ -27,7 +27,7 @@ Welcome to my central repository for **Data Analytics**, **Machine Learning**, a
 
 ---
 
-## 🛠️ Core Skills & Technical Competencies
+##  Core Skills & Technical Competencies
 
 * **Data Analytics & BI:** Advanced SQL, Python (Pandas, NumPy), Power BI (DAX, Modeling), Tableau (Calculated Fields, Storytelling).
 * **Predictive Learning & Modeling:** Supervised & Unsupervised Machine Learning (Scikit-Learn, Clustering, Customer Segmentation, Predictive Forecasting).
